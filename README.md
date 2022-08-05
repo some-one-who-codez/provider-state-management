@@ -1,6 +1,6 @@
-# new_state_management
+# Provider State Management
 
-A new Flutter project.
+This flutter project shows how to implement [`Provider`](https://pub.dev/packages/provider) for basic state management using the boilerplate counter app. 
 
 ## Getting Started
 
